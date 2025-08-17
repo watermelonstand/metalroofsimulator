@@ -28,7 +28,3 @@ Users can upload a house photo, draw a polygon around the roof, and apply differ
 - [Node.js](https://nodejs.org/) (LTS recommended)
 - [Git](https://git-scm.com/)
 
-### Clone the repo
-```bash
-git clone https://github.com/YOUR-USERNAME/roof-visualizer.git
-cd roof-visualizer
