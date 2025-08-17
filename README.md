@@ -22,9 +22,4 @@ Users can upload a house photo, draw a polygon around the roof, and apply differ
 
 ---
 
-## 🚀 Getting Started
-
-### Prerequisites
-- [Node.js](https://nodejs.org/) (LTS recommended)
-- [Git](https://git-scm.com/)
 
